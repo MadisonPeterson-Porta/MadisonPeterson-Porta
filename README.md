@@ -5,5 +5,5 @@ My name is Madison Peterson-Porta. I currently am a sophomore attending Lehigh U
 ![Lehigh University First Year Class](https://madisonpeterson-porta.github.io/major1.png) 
 
 # Rio Timeline 
-<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IgXVKgSSi4ofjRIRx49giUdMiOfTTV_RVRFAAVFiR0Q&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
                                 
