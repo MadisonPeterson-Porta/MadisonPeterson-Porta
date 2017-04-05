@@ -18,3 +18,6 @@ My name is Madison Peterson-Porta. I currently am a sophomore attending Lehigh U
 
 ![2016 Enrollment Chart](https://github.com/MadisonPeterson-Porta/MadisonPeterson-Porta.github.io/blob/master/3.png?raw=true)
 
+# Changes in Undergraduate Enrollment Per College
+
+![Changes in Enrollment](https://github.com/MadisonPeterson-Porta/MadisonPeterson-Porta.github.io/blob/master/72.png?raw=true) 
