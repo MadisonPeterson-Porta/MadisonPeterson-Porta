@@ -28,4 +28,4 @@ My name is Madison Peterson-Porta. I currently am a sophomore attending Lehigh U
 
 # Butterfly and Insect Map 
 
-![Bug Map](<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1hVZEV5iBbLii9AXV1VU5Q5j_QK9X_zUW5Et1KLcB&amp;viz=MAP&amp;h=false&amp;lat=10.693891313813129&amp;lng=-85.49019486816411&amp;t=1&amp;z=9&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>)
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1hVZEV5iBbLii9AXV1VU5Q5j_QK9X_zUW5Et1KLcB&amp;viz=MAP&amp;h=false&amp;lat=10.693891313813129&amp;lng=-85.49019486816411&amp;t=1&amp;z=9&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
