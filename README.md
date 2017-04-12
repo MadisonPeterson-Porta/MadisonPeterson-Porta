@@ -37,3 +37,7 @@ My name is Madison Peterson-Porta. I currently am a sophomore attending Lehigh U
 # Bethlehem Locations
 
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1WI0XEhlWVf-VqeGEy7qBcXoY8I35JLWGS2yZ0szQ&amp;viz=MAP&amp;h=false&amp;lat=40.60791945945673&amp;lng=-75.37551104049072&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+# Local River Edge Restaurant Locations 
+
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1VbXM4RwdP_tgloSGWxhOOqKSZEMBheAIYleYjt5o&amp;viz=MAP&amp;h=false&amp;lat=40.930117246059446&amp;lng=-74.02995016400143&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
