@@ -33,3 +33,7 @@ My name is Madison Peterson-Porta. I currently am a sophomore attending Lehigh U
 # Butterfly and Insect Map 
 
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1hVZEV5iBbLii9AXV1VU5Q5j_QK9X_zUW5Et1KLcB&amp;viz=MAP&amp;h=false&amp;lat=10.693891313813129&amp;lng=-85.49019486816411&amp;t=1&amp;z=9&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
+
+# Bethlehem Locations
+
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1WI0XEhlWVf-VqeGEy7qBcXoY8I35JLWGS2yZ0szQ&amp;viz=MAP&amp;h=false&amp;lat=40.60791945945673&amp;lng=-75.37551104049072&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
