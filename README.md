@@ -54,4 +54,4 @@ https://public.tableau.com/views/TopBabyNamesfor102Years/Dashboard1?:embed=y&:di
 
 # Comic Book
 
-<iframe src="//www.pixton.com/embed/mgseo1h0" frameborder="0" width="100%" height="600" allowfullscreen></iframe>
+![To Sit or not To Sit](https://github.com/MadisonPeterson-Porta/MadisonPeterson-Porta.github.io/blob/master/Dog%20Comic.png?raw=true)
