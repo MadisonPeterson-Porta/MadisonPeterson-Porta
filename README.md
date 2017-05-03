@@ -26,7 +26,7 @@ My name is Madison Peterson-Porta. I currently am a sophomore attending Lehigh U
 
 ![Changes in Enrollment](https://github.com/MadisonPeterson-Porta/MadisonPeterson-Porta.github.io/blob/master/72.png?raw=true) 
 
-# Arson against single occupancy residences over 10 years
+# Changes in Arson Offenses 
 
 ![Changes in Arson Offenses](https://github.com/MadisonPeterson-Porta/MadisonPeterson-Porta.github.io/blob/master/12121.png?raw=true)
 
