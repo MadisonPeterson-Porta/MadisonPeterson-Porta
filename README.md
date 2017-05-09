@@ -9,10 +9,6 @@ My name is Madison Peterson-Porta. I currently am a sophomore attending Lehigh U
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RtzHYyA1YJgx5pLACDSP4CSLY8qe-8SvcQRgLTGgbcY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-# Top 30 Animated Movies to hit the Box Office 
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RtzHYyA1YJgx5pLACDSP4CSLY8qe-8SvcQRgLTGgbcY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
 # Changes in Arson Offenses 
 
 ![Changes in Arson Offenses](https://github.com/MadisonPeterson-Porta/MadisonPeterson-Porta.github.io/blob/master/12121.png?raw=true)
