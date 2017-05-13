@@ -11,7 +11,7 @@ My name is Madison Peterson-Porta. I currently am a sophomore attending Lehigh U
 
 # Changes in Arson Offenses 
 
-![Changes in Arson Offenses](https://github.com/MadisonPeterson-Porta/MadisonPeterson-Porta.github.io/blob/master/12121.png?raw=true)
+![Changes in Arson Offenses](https://github.com/MadisonPeterson-Porta/MadisonPeterson-Porta.github.io/blob/master/Arson_against_Single_Occupancy_Residences_Arson_against_Single_Occupancy_Residences_chartbuilder%20(1).png?raw=true)
 
 # Local River Edge Restaurant Locations 
 
