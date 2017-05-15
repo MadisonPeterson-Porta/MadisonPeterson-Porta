@@ -7,7 +7,7 @@ My name is Madison Peterson-Porta. I currently am a sophomore attending Lehigh U
 
 # RollingStone's Top 10 Animated Movies
 
-<iframe src="https://docs.google.com/spreadsheets/d/1RtzHYyA1YJgx5pLACDSP4CSLY8qe-8SvcQRgLTGgbcY/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe https://docs.google.com/spreadsheets/d/1RtzHYyA1YJgx5pLACDSP4CSLY8qe-8SvcQRgLTGgbcY/pubhtml></iframe>
 
 # Changes in Arson Offenses 
 
